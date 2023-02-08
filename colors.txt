@@ -2,4 +2,3 @@ red
 black
 green
 blue
-pink
