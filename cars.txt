@@ -7,3 +7,6 @@ Bentley
 Mercedes
 Audi
 Kia
+Nissan
+Lexus
+Ferrari
