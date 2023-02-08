@@ -4,3 +4,6 @@ Tesla
 BMW
 Jaguar
 Bentley
+Mercedes
+Audi
+Kia
