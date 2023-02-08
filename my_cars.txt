@@ -10,3 +10,4 @@ Kia
 Nissan
 Lexus
 Ferrari
+Samara
